@@ -1,5 +1,4 @@
-import nccu.vipl.jeff.recursion.Permutation;
-import nccu.vipl.jeff.recursion.Recursion;
+import nccu.vipl.jeff.recursion.*;
 
 public class Test {
 	public static void main(String[] args) {
