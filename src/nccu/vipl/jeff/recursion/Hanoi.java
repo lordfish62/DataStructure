@@ -1,3 +1,4 @@
+package nccu.vipl.jeff.recursion;
 
 public class Hanoi {
 	void hanoi(int disks, char src, char tmp, char dst) {
