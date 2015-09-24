@@ -19,8 +19,16 @@ public class Test {
 			System.out.println(qa.deQueue());
 			System.out.println(qa.deQueue());
 			qa.enQueue(100);
-
 			qa.enQueue(110);
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
+			System.out.println(qa.deQueue());
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
